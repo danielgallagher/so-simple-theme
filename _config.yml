@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Daniel Gallagher
+description:      Personal Website.
 logo:             site-logo.png
 disqus_shortname:
 search:           true
@@ -9,23 +9,23 @@ url:              http://localhost:4000
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Daniel Gallagher
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          dgallagher@knights.ucf.edu
   # Social networking links used in footer. Update and remove as you like.
   twitter:
   facebook:
-  github:
+  github:         https://github.com/danielgallagher/
   stackexchange:
-  linkedin:
+  linkedin:		  https://www.linkedin.com/in/drgallagher
   instagram:
-  flickr:
+  flickr:         https://www.flickr.com/photos/danielgallagher/
   tumblr:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
+google_analytics: UA-4087959-1
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
